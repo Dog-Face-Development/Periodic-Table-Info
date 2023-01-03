@@ -15,7 +15,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 # This is the main program file for Periodic Table Info.
-
 # Imports all other files.
 from elements import element_print_out
 
